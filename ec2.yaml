@@ -22,7 +22,7 @@
 
   vars:
     ansible_python_interpreter: /usr/bin/python3.10
-    keypair: ALB+ASG_demo_Key
+    keypair: mahi-mumbai-key
     instance_type: t2.micro
     image_id: ami-0287a05f0ef0e9d9a
     wait: yes
