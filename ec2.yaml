@@ -22,9 +22,9 @@
 
   vars:
     ansible_python_interpreter: /usr/bin/python3.10
-    keypair: mahi-mumbai-key
+    keypair: n-virginia-key
     instance_type: t2.micro
-    image_id: ami-0287a05f0ef0e9d9a
+    image_id: ami-0fc5d935ebf8bc3bc
     wait: yes
     group: webserver
     count: 1
